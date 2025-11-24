@@ -2,7 +2,7 @@
 
 ## 📌 Giới Thiệu Dự Án 
 
-Đây là dự án ứng dụng các thuật toán Học máy và Khai phá dữ liệu để giải quyết bài toán [**Xác định Mục tiêu Cụ thể của Dự án**]. Dự án bao gồm các giai đoạn: tiền xử lý dữ liệu, phân tích khám phá (EDA), xây dựng mô hình phân loại (Classification) và thực hiện phân cụm (Clustering).
+Đây là dự án ứng dụng các thuật toán Học máy và Khai phá dữ liệu để giải quyết bài toán . Dự án bao gồm các giai đoạn: tiền xử lý dữ liệu, phân tích khám phá (EDA), xây dựng mô hình phân loại (Classification) và thực hiện phân cụm (Clustering).
 
 Mục tiêu chính là tìm ra mô hình dự đoán hiệu quả nhất và rút ra các thông tin chi tiết có giá trị từ dữ liệu.
 
